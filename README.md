@@ -1,6 +1,10 @@
-# React + Vite
+React CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-This project simmulates all the add,delete,update,create operations to a e-commerce app.
+
+-The data is fetched through fakeStoreAPI and then stored in Local Storage for CRUD operations.
+
+
 
 Currently, two official plugins are available:
 
